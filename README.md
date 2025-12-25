@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=phyzk&layout=compact&langs_count=6)](https://github.com/danerlt/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phyzk&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phyzk&theme=github)
 
 
 </div>
