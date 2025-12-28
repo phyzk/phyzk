@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=phyzk)
 -->
 
+
 <a href="https://info.flagcounter.com/gPCY"><img src="https://s11.flagcounter.com/map/gPCY/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 ## Analysis :point_down:
  
+[![phyzk's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=phyzk)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=phyzk&layout=compact&langs_count=6)](https://github.com/danerlt/github-readme-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phyzk&theme=github)
-
-
-</div>
+[![phyzk's Most used languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phyzk&layout=donut&hide_border=false&langs_count=6)](https://github.com/pranesh-2005/github-readme-stats-fast)
